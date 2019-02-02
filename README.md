@@ -12,9 +12,9 @@ FriendFinder is an app which helps users to find friends.
 
 ![submit](/app/public/img/2.png)
 
- The app will then display the name and picture of the user with the best overall match.
+ 3. The app will then display the name and picture of the user with the best overall match.
 
-[best match](/app/public/img/3.png)
+![best match](/app/public/img/3.png)
 
 The answers are saved at friends.js file. 
 
