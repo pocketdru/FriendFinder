@@ -1,6 +1,20 @@
 # FriendFinder
 
-FriendFinder is an app which helps users to find friends. It takes in results from  users' surveys, then compares their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+FriendFinder is an app which helps users to find friends. 
+
+# How it works 
+
+1. It takes in results from  users' surveys
+
+![survey](/app/public/img/1.png)
+
+2. Then compares their answers with those from other users.
+
+![submit](/app/public/img/2.png)
+
+ The app will then display the name and picture of the user with the best overall match.
+
+[best match](/app/public/img/3.png)
 
 The answers are saved at friends.js file. 
 
