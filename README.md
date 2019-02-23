@@ -1,6 +1,9 @@
 # FriendFinder
 
-FriendFinder is an app which helps users to find friends. 
+FriendFinder is an app which helps users to find friends.
+
+Deployed version:
+[a link](https://vast-anchorage-13431.herokuapp.com/)
 
 # How it works 
 
